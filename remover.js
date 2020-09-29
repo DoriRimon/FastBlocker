@@ -20,8 +20,6 @@ function removeAds() {
 removeAds();
 
 
-setInterval(function () {
-    removeAds();
-}, 100)
+setInterval(() => { removeAds() }, 100)
 
 
