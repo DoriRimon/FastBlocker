@@ -58,13 +58,13 @@ img {
 }
 
 #git {
-    transition: 0.2s;
+    transition: 0.3s;
     opacity: 1;
     width: 30px;
 }
 
 #git:hover { 
     opacity: 0.6;
-    width: 35px;
+    width: 33px;
     margin-bottom: 15px;
 }
