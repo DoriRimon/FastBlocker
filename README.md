@@ -1,5 +1,7 @@
 # FastBlocker
 This is a chrome extension that allows you to block unwanted advertisements on the [10fastfingers](https://10fastfingers.com/typing-test/english) site. </br>
+
+## Popup
 <p><img src="https://github.com/DoriRimon/FastBlocker/blob/master/readme_files/popup.png" width="300"></p>
 
 ## Before & After
