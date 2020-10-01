@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "icons": {"128": "images/flow.png"}, 
     "browser_action": {
-        "default_title": "FastBlocker AdBlocker",
+        "default_title": "FastBlocker",
         "default_icon": "images/flow.png", 
         "default_popup": "popup.html"
     },
